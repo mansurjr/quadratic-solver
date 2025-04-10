@@ -1,0 +1,12 @@
+{
+  "name": "quadratic-solver-top",
+  "version": "1.0.0",
+  "main": "quadratic-solver.js",
+  "scripts": {
+    "dev": "node quadratic-solver"
+  },
+  "keywords": ["math", "quadratic-solve"],
+  "author": "BEK",
+  "license": "ISC",
+  "description": "Kvadrat tenglama yechimlarini hisoblaydigan modul (Uzbek)"
+}
